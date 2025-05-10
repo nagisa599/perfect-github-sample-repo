@@ -1,1 +1,6 @@
-# perfect-github-sample-repo
+# 技術選定
+
+- フロントエンド: React
+- バックエンド: express
+- 状態管理: \*\*\*\
+- メチャクチャ書いたよ!
